@@ -4,7 +4,7 @@
 # coding: utf-8 
 #### license: creative commons cc0 1.0 (public domain) 
 #### http://creativecommons.org/publicdomain/zero/1.0/ 
-proginf = "figxar 0.1, nov 2017 mn, ankita, richita"
+proginf = "winfig 0.2, nov 2017 mn, ankita, richita"
 import sys
 import os
 from sys import stdin, stdout
